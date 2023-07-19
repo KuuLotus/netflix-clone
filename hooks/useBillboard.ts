@@ -1,6 +1,6 @@
 import useSWR from "swr";
 
-import fetcher from "@/lib/fetcher";
+import fetcher from "@/libs/fetcher";
 import exp from "constants";
 
 const useBillboard = () => {
